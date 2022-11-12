@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boringlandingpages/static/css/main.f0aa9304.css",
+    "main.js": "/boringlandingpages/static/js/main.7c67dcea.js",
+    "index.html": "/boringlandingpages/index.html",
+    "main.f0aa9304.css.map": "/boringlandingpages/static/css/main.f0aa9304.css.map",
+    "main.7c67dcea.js.map": "/boringlandingpages/static/js/main.7c67dcea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0aa9304.css",
+    "static/js/main.7c67dcea.js"
+  ]
+}
